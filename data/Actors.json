@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"protag","characterIndex":0,"characterName":"protag","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"protag","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tomoko","nickname":"智子","note":"Kanji: 智子","profile":"A clever tactician, and very open thinker. She can\novercome just about any intellectual challenge."},
+{"id":2,"battlerName":"protag2","characterIndex":0,"characterName":"protag2","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"protag2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kousuke","nickname":"孝介","note":"Kanji: 孝介","profile":"A strong man with a strong resolve. Not the brightest,\nbut capable of overcoming most physical challenges."},
+{"id":3,"battlerName":"protag3","characterIndex":0,"characterName":"protag3","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"protag3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Satomi","nickname":"聡美","note":"Kanji: 聡美","profile":"A talented engineer. It's possible she will pioneer\nthe future of technology as we know it."},
+{"id":4,"battlerName":"protag4","characterIndex":0,"characterName":"protag4","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"protag4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Yuuji","nickname":"祐司","note":"Kanji: 祐司","profile":"One of the last of his kind, able to use powerful\nmagic. He's always tinkering with his wand's spells."},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Nimetön","nickname":"","note":"finnish for \"unnamed\"","profile":""}
+]
